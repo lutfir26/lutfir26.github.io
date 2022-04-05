@@ -51,7 +51,7 @@ hr {
 }
 
 .market ul li,
-.col-sm-4 #jualan{
+.col-sm-4 #jualan {
     color: black;
     list-style-type: none;
     /* min-height: 240px; */
@@ -78,6 +78,7 @@ footer {
     /* background-color: aqua; */
     /* bottom: 0px; */
     padding-bottom: 0px;
+    margin: 0 0 0 0;
 }
 
 footer p {
